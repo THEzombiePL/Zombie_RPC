@@ -6,7 +6,7 @@
 
 Prosta aplikacja pozwalająca na ustawienie własnego statusu na Discordzie 🙂
 
-## Author
+## Autor
 
 - [@THEzombiePL](https://www.github.com/THEzombiePL)
 
